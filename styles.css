@@ -1,0 +1,27 @@
+#top-container{
+    background-color: #bcc8ff;
+}
+#skills{
+    background-color: #bcc8ff; 
+}
+#satu{
+    background-color: #bcc8ff;
+}
+#work{
+    background-color: #bcc8ff;
+}
+#edu{
+    background-color: #bcc8ff;
+}
+#one{
+    background-color: #bcc8ff;
+    font-family: 'Staatliches', cursive;
+    font-size: 1rem;
+    text-align: center; 
+}
+#contact{
+    background-color: cornsilk;
+    margin: 20px;
+    padding: 20px;
+    font-size: 1.325em;
+}
